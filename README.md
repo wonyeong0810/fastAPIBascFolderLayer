@@ -2,7 +2,7 @@
 파이썬 fastAPI 폴더 구조 기본 세팅 | python fastAPI folder Layer Basic Setting
 
 
-
+```
 project_root/
 ├── app/
 │   ├── __init__.py
@@ -32,3 +32,4 @@ project_root/
 ├── .env                       # 환경 변수 설정 파일
 ├── requirements.txt           # Python 패키지 목록
 └── README.md                  # 프로젝트 설명 파일
+```
